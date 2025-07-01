@@ -94,7 +94,7 @@ if (hasAttachment) {
         };
         console.log(chalk.hex("#" + random3)(`┣[📎]➤ Đính kèm: `) + chalk.hex("#" + random)(`${attachmentTypesMap[attachmentType] || "Không xác định"}`));
       }
-      console.log(chalk.hex("#" + random3)(`┣[⏰]➤ Thời gian: `) + chalk.hex("#" + random2)(`${n}`) + `\n` + chalk.hex("#" + random7)(`┣[⏳]➤ Bot online được: `) + chalk.hex("#" + random)(`${anh} giờ `) + chalk.hex("#" + random1)(`${la} phút `) + chalk.hex("#" + random)(`${rst} giây`) + `\n` + chalk.hex("#" + random4)(`┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛`) + `\n` + chalk.hex("#" + random8)(`===== [ ROASTED_KING GG ] =====`));
+      console.log(chalk.hex("#" + random3)(`┣[⏰]➤ Thời gian: `) + chalk.hex("#" + random2)(`${n}`) + `\n` + chalk.hex("#" + random7)(`┣[⏳]➤ Yuz online được: `) + chalk.hex("#" + random)(`${anh} giờ `) + chalk.hex("#" + random1)(`${la} phút `) + chalk.hex("#" + random)(`${rst} giây`) + `\n` + chalk.hex("#" + random4)(`┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛`) + `\n` + chalk.hex("#" + random8)(`===== [ TRAM_ANH_YUZ ] =====`));
     } else {
       console.log(chalk.hex("#" + random5)(`Nhận tin nhắn riêng:`));
       console.log(chalk.hex("#" + random2)(`Từ: `) + chalk.hex("#" + random6)(`${userName} (ID: ${senderID})`));
