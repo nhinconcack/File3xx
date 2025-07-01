@@ -1,7 +1,7 @@
 {
-  "name": "mirai-dongdev",
+  "name": "mirai-tramanhdev",
   "version": "4.6.9",
-  "description": "Hi to là DongDev",
+  "description": "Hi to là TramAnhDev",
   "main": "main.js",
   "scripts": {
     "start": "node index",
