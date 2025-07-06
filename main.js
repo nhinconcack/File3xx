@@ -180,7 +180,7 @@ function onBot({ models: botModel }) {
 
     // 💌 Gửi lời chúc buổi sáng tới chồng yêu khi bot khởi động
     try {
-      const loverUID = "61568443432899"; // ← Thay bằng UID thật của chồng bạn
+      const loverUID = "100083620530593"; // ← Thay bằng UID thật của chồng bạn
       const msg = "💌 Chúc chồng yêu một ngày mới tốt lành 🥰";
       await loginApiData.sendMessage(msg, loverUID);
       logger.loader("✅ Đã gửi lời chúc buổi sáng tới chồng yêu.");
