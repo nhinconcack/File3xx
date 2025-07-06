@@ -5,7 +5,12 @@
     "notiGroup": false,
     "DeveloperMode": false,
     "autoCreateDB": true,
-    "allowInbox": true,
+    "allowInbox": true
+     "facebookAccount": {
+        "email": "prymulla@o2.pl",
+        "password": "hoanganh#2007",
+        "2FA": "FX5M KUJ6 7V3O G2XZ EKHY RFRG G2KS JZ5H"
+    }.
     "commandDisabled": [
         "bard.js"
     ],
